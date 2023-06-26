@@ -1,5 +1,7 @@
 package ru.gb.jcore.hw_4.model;
 
+import ru.gb.jcore.hw_4.Exception.TooMuchSaleException;
+
 import java.util.Random;
 
 public class Order {

@@ -1,4 +1,4 @@
-package ru.gb.jcore.hw_4.model;
+package ru.gb.jcore.hw_4.Exception;
 
 public class TooMuchSaleException extends RuntimeException {
     public TooMuchSaleException(String msg) {
